@@ -1,67 +1,62 @@
-<h1 align="center">macdoos</h1>
+# Hi, I'm Macdoos 👋
+
+Cybersecurity Engineer focused on protecting systems, detecting threats, and strengthening security operations in modern digital environments.
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C2FF&center=true&width=500&lines=Software+Developer;Problem+Solver;Building+Practical+Solutions" alt="Typing SVG" />
+  <img src="https://img.shields.io/badge/Cybersecurity-Engineer-0D9488?style=for-the-badge&logo=shield&logoColor=white" alt="Cybersecurity Engineer" />
+  <img src="https://img.shields.io/badge/Cloud-Security-2563EB?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Cloud Security" />
+  <img src="https://img.shields.io/badge/Threat-Detection-DC2626?style=for-the-badge&logo=security&logoColor=white" alt="Threat Detection" />
+  <img src="https://img.shields.io/badge/Blue-Team-7C3AED?style=for-the-badge&logo=linux&logoColor=white" alt="Blue Team" />
 </p>
 
-<p align="center">
-  <strong>Developer focused on building reliable, user-friendly software and learning by doing.</strong>
-</p>
+## About Me
 
----
+I'm a cybersecurity professional passionate about defending digital assets, identifying vulnerabilities, and building proactive security controls. My work spans threat detection, incident response, cloud security, and security automation.
 
-### About Me
-I am a software developer with a strong interest in creating practical, efficient, and maintainable applications. My work spans academic and personal projects, with a focus on clean logic, usability, and problem-solving.
+- Threat hunting and detection engineering
+- Cloud security and hardening
+- Vulnerability assessment and remediation
+- Security operations and incident response
+- Network, web, and application security
+- Security tooling and automation
 
-I enjoy:
-- Building software that solves real-world problems
-- Learning new technologies and improving development skills
-- Writing clean, organized, and readable code
-- Turning ideas into working products
+## Core Skills
 
----
-
-### Skills
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nmap-000000?style=flat-square&logo=nmap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Burp%20Suite-FF6600?style=flat-square&logo=burp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Elastic-005571?style=flat-square&logo=elastic&logoColor=white" />
 </p>
 
----
+## Current Focus
 
-### Featured Projects
-- [Course_Management_System](https://github.com/macdoos/Course_Management_System)  
-  A project focused on efficient course and academic workflow management.
+- Securing cloud-native infrastructure and workloads
+- Building detections for modern attack techniques
+- Strengthening SOC workflows and response readiness
+- Investigating adversary behavior and mitigation strategies
+- Turning security findings into practical, measurable improvements
 
----
-
-### GitHub Statistics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=macdoos&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=macdoos&theme=radical" alt="GitHub Streak" />
-</p>
-
----
-
-### Current Focus
-- Improving software engineering fundamentals
-- Expanding my experience with practical development projects
-- Strengthening problem-solving and application design skills
-- Exploring efficient and scalable solutions
-
----
-
-### Contact
-- GitHub: [@macdoos](https://github.com/macdoos)
-- Email: [your-email@example.com](mailto:your-email@example.com)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/your-profile)
+## GitHub Activity
 
 <p align="center">
-  <em>“Building meaningful solutions through code.”</em>
+  <img src="https://github-readme-stats.vercel.app/api?username=macdoos&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
 </p>
+
+## Let's Connect
+
+I’m open to cybersecurity discussions, collaborations, security projects, and opportunities focused on improving security posture and resilience.
+
+- GitHub: https://github.com/macdoos
+- Email: macdoos.security@example.com
+- LinkedIn: https://www.linkedin.com/in/your-profile
+
+> Security is not just prevention — it is visibility, resilience, and continuous improvement.
