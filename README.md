@@ -56,7 +56,7 @@ I'm a cybersecurity professional passionate about defending digital assets, iden
 I’m open to cybersecurity discussions, collaborations, security projects, and opportunities focused on improving security posture and resilience.
 
 - GitHub: https://github.com/macdoos
-- Email: macdoos.security@example.com
-- LinkedIn: https://www.linkedin.com/in/your-profile
+- Email: alhozmustafa@gmail.com
+- LinkedIn: https://www.linkedin.com/in/mustafa-alhoz/
 
 > Security is not just prevention — it is visibility, resilience, and continuous improvement.
